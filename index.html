@@ -1,4 +1,38 @@
 ---
-layout: home
-author_profile: true
+title: "Splash Page"
+layout: splash
+date: 2016-03-23T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row:
+  - image_path: images/desert-flower.jpeg
+    alt: "VMASC Virginia Data Cube"
+    title: "VMASC Virginia Data Cube"
+    excerpt: "Geospatial analytical tool that aids in the analysis of smallsat and satellite imagery."
+    url: user-docs/index
+    btn_label: "Go To"
+    btn_class: "btn--primary"
+  - image_path: images/desert-flower.jpeg
+    alt: "User Documentation"
+    title: "User Documentation"
+    excerpt: "User documentation for the VMASC Virginia Data Cube."
+    url: user-docs/index
+    btn_label: "Go To"
+    btn_class: "btn--primary"
+  - image_path: images/desert-flower.jpeg
+    title: "Data Cube Jupyter Notebook Documentation"
+    excerpt: "Find templates, tutorials, and getting started guides for jupyter notebooks within the Data Cube."
+    url: "https://github.com/GeoSEA-ODU/va-datacube"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
