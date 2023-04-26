@@ -15,4 +15,4 @@ The following email domains are apart of the VMASC Virginia Data Cube whitelist:
 - vbgov.com
 - nasa.gov
 
-**To request an account please email [Datacube@odu.edu](mailto:datacube@odu.edu>)**
+**To request an account or to add your organizations domain to the whitelist please email [Datacube@odu.edu](mailto:datacube@odu.edu>)**
