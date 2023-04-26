@@ -38,4 +38,6 @@ On the sign-up page, you will be asked to enter your personal information. Pleas
 
 Once you've entered your personal information, click on the "Sign Up" button to complete the registration process.
 
-**Congratulations, you're now a registered user of [datacube.online](https://datacube.online)**
+**Congratulations, you're now a registered user of [datacube.online](https://datacube.online). Good luck analyzing!** 
+
+

@@ -14,7 +14,7 @@ docs:
         url: user-docs/request-account
       - title: "Data Cube Products and Datasets"
         url: user-docs/dc-products-datasets
-  - title: Usage
+  - title: Using VA Data Cube
     children:
       - title: "Shared Directory Usage"
         url: user-docs/shared-directory-usage
