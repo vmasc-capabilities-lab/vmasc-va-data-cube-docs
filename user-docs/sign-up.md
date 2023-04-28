@@ -11,7 +11,7 @@ sign-up-1:
 
 > **IMPORTANT**
 >
-> Access to VMASC Virginia Data Cube is for users apart of the whitelisted domains. If you do not have an email with one of the whitelisted domains, you must request an account.
+> Access to VMASC Virginia Data Cube is for users a part of the whitelisted domains. If you do not have an email with one of the whitelisted domains, you must request an account.
 
 
 Signing up for the VMASC Virginia Data Cube is quick and easy! Follow these simple steps to create your account:
