@@ -10,7 +10,7 @@ Welcome to the VMASC Virginia Data Cube User Documentation! This is where you wi
 
 If you are new to the VMASC Virginia Data Cube, be sure to [sign up](/user-docs/sign-up/) or [request](/user-docs/request-account) an account.
 
-> Requesting an account is required if you do not have en email that is apart of the VMASC Virginia Data Cube whitelist. The following email domains are apart of the VMASC Virginia Data Cube whitelist:
+> Requesting an account is required if you do not have en email that is a part of the VMASC Virginia Data Cube whitelist. The following email domains are apart of the VMASC Virginia Data Cube whitelist:
 - odu.edu 
 - ama-inc.com 
 - jlab.org
