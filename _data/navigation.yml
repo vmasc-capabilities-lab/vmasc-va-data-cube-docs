@@ -3,7 +3,7 @@ main:
     url: /
   - title: "User Documentation"
     url: user-docs/index
-  - title: "VMASC VA Data Cube"
+  - title: "VMASC VA Data Cube  \u2197"
     url: https://datacube.online/
 docs:
   - title: Getting Started
@@ -20,7 +20,7 @@ docs:
         url: user-docs/shared-directory-usage
   - title: Open Data Cube Resources
     children:
-      - title: "Python API"
+      - title: "Python API \u2197"
         url: https://datacube-core.readthedocs.io/en/latest/api/index.html
-      - title: "ODC Jupyter Notebook Examples"
+      - title: "ODC Jupyter Notebook Examples \u2197"
         url: https://datacube-core.readthedocs.io/en/latest/data-access-analysis/tools-exploring-data/using-juypter.html

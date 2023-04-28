@@ -13,7 +13,7 @@ feature_row:
     url: https://datacube.online
     btn_label: "Go To"
     btn_class: "btn--primary"
-  - image_path: images/book-doc.png
+  - image_path: images/pexels-pixabay-261763.jpg
     alt: "User Documentation"
     title: "User Documentation"
     excerpt: "User documentation for the VMASC Virginia Data Cube."
@@ -43,10 +43,10 @@ feature_row6:
 
 {% include feature_row id="intro" type="center" %}
 
-<h1 style="text-align:center">VMASC Virginia Data Cube</h1>
+<h1 style="text-align:center">Welcome to the VMASC Virginia Open Data Cube Hub!</h1>
   
-<p style="text-align:center">Welcome to the Virginia Open Data Cube Hub!
-  The VA Data Cube is a powerful geospatial analytical tool that aids in managing and organizing imagery data with its respective time series data for easier analysis. The VA Data Cube capabilities can be utilized to provide insight and information for future-focused environmental, economic, or public health decisions based on past data, or a multitude of other problem solving possibilities. </p>
+<p style="text-align:center">
+  The VMASC VA Data Cube is a powerful geospatial analytical tool that aids in managing and organizing imagery data with its respective time series data for easier analysis. The VA Data Cube capabilities can be utilized to provide insight and information for future-focused environmental, economic, or public health decisions based on past data, or a multitude of other problem solving possibilities. </p>
 
 <p style="text-align:center">The abilities of the Data Cube are more impactful with the help of the geospatial research community comprised of data providers, problem owners, and data analysts coming together to provide additional resources, data, and tools to solve real-world problems. This is the main reason the VMASC Virginia Data Cube was created, to provide a platform for ODU Researchers, Data Scientist, and students to explore and make informed decisions around free and open satellite data for Virginia.</p>
 <br>
